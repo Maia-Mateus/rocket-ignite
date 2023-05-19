@@ -1,2 +1,2 @@
-# rocket-ignite
+# Ignite feed
  React project of a SPA
